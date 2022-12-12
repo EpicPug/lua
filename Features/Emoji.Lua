@@ -19,7 +19,7 @@ function Premium()
 				end
 			end
 			if v.Character.Parent.Name == 'Players' then
-				if not v.Character.LowerTorso:FindFirstChild('WaistBackAttachment') then
+				if not v.Character.Head:FindFirstChild('FaceFrontAttachment') then
 					v.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[😇]'..v.DisplayName)
 				end
 			end
