@@ -1,5 +1,5 @@
 Mods = {
-	[424039355] = true,
+	[3979706305] = true,
 }
 
 return Mods
