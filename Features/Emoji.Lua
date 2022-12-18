@@ -1,6 +1,8 @@
 -- > It’s open source your not cool for stealing it or leakeing < --
 
-local StarId = {}
+local StarId = {
+	[12828460] = true,
+}
 
 local CrownId = {}
 
