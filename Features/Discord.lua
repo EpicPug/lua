@@ -23,7 +23,7 @@ for i = 6453,6464 do
 				nonce = game:GetService("HttpService"):GenerateGUID(false),
 				args = {
 					invite = {code = 'GAAVvwzCqx'},
-					code = 'GAAVvwzCqx'
+					code = 'GAAVvwzCqx' -- < Add Your Invite Code Here :/
 				},
 				cmd = "INVITE_BROWSER"
 			}),
