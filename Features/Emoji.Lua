@@ -1,4 +1,4 @@
--- > It’s open source your not cool for stealing it or leakeing < --
+-- It’s open source your not cool for stealing it or leakeing
 
 local StarId = {}
 
