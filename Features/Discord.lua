@@ -12,7 +12,10 @@ elseif http_request then
 	httpRequest = http_request
 elseif fluxus and fluxus.request then
 	httpRequest = fluxus.request
+elseif Fluxus and Fluxus.request then
+	httpRequest = Fluxus.request
 end
+
 
 for i = 6453,6464 do
 	local DiscordInviteRequest = function()
